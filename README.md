@@ -3,7 +3,7 @@
 📡 AtliQo 5G Performance Analysis
 📌 Project Background
 
-AtliQo is a telecom-based company operating across multiple Indian cities, offering diversified mobile plans to a large subscriber base. With the rollout of 5G services, the company aimed to evaluate its impact on revenue growth, user behavior, and market competitiveness.
+AtliQo is a telecom-based company operating across multiple Indian cities, offering a diverse range of mobile plans to a large subscriber base. With the rollout of 5G services, the company aimed to evaluate its impact on revenue growth, user behaviour, and market competitiveness.
 
 📊 Insights & Recommendations Are Provided On:
 

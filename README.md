@@ -66,7 +66,7 @@ Metro cities contributed the highest share of active users, while smaller cities
 
 Some months reflected MoM fluctuations, signaling potential churn or seasonal usage behavior.
 
-📌 [Insert Active Users visual here]
+📌 ![image alt] (https://github.com/bhawna407/AtliqO-5G-Telecom/blob/5efe014c4000d73d03e0cf80981e1acff3a8622b/ATLIQO%20TELECOM%20MAIN%20PG.png)
 
 💰 Total Revenue Analysis
 

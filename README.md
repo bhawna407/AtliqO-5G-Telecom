@@ -49,14 +49,16 @@ Fact Plan Revenue Table – Plan-wise revenue by city and date
 
 Market Share Table – Company-wise market share percentage by city and month
 
-📌 [Space reserved here to add images of tables / data model]
+![image alt](https://github.com/bhawna407/AtliqO-5G-Telecom/blob/f2acc9c6b31b7869b81da4f3744ca71820767e3a/TELECOM%20ATLIQO%20EXECUTIVE%20SUMMARY.png)![Uploading TELECOM ATLIQO EXECUTIVE SUMMARY.png…]()
+
+
 
 📈 Executive Summary
 Overview of Findings
 
 The analysis reveals that the 5G rollout had a mixed but strategically significant impact on AtliQo’s business. While certain cities and plans experienced noticeable revenue and active user growth, others showed stagnation or minor declines. The data highlights strong opportunities for region-focused optimization, plan restructuring, and targeted customer retention strategies to maximize post-5G benefits.
 
-📌 [Space reserved here for executive overview image]
+📌 ![image alt](https://github.com/bhawna407/AtliqO-5G-Telecom/blob/5efe014c4000d73d03e0cf80981e1acff3a8622b/ATLIQO%20TELECOM%20MAIN%20PG.png)<img width="1163" height="787" alt="ATILOQ TELECOM INSIGHTS" src="https://github.com/user-attachments/assets/3c281f99-936e-446a-8b3a-44918cd4f406" />
 
 👥 Active Users Trends
 

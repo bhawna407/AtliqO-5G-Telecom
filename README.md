@@ -66,9 +66,6 @@ Metro cities contributed the highest share of active users, while smaller cities
 
 Some months reflected MoM fluctuations, signaling potential churn or seasonal usage behavior.
 
-📌 ![image alt](https://github.com/bhawna407/AtliqO-5G-Telecom/blob/<img width="1187" height="786" alt="ATLIQO TELECOM MAIN PG" src="https://github.com/user-attachments/assets/f892b43c-fcc6-465f-b5da-775e7eb455c9" />
-5efe014c4000d73d03e0cf80981e1acff3a8622b/ATLIQO%20TELECOM%20MAIN%20PG.png)
-
 💰 Total Revenue Analysis
 
 Total revenue increased from approximately ₹354 Cr to peaks above ₹419 Cr, reflecting positive 5G monetization.
